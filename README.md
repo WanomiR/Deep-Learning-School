@@ -2,7 +2,7 @@
 
 Here I keep seminar notebooks and assignments on which I worked during the course.
 
-## Semester I
+## Semester I: Computer Vision
 
 | Topic | Files | Libraires |
 | :--- | --- | --- |
