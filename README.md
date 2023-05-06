@@ -4,6 +4,7 @@ Here I keep seminar notebooks and assignments on which I worked during the cours
 
 ## Semester I
 
-| Topic | Seminar | Assignment |
-| :--- | --- | --- |
-| content 1 | content 2 | content 3 |
+| Topic | Files | Libraires |
+| :--- | :--- | --- |
+| Linear Regression: Lasso, Ridge, SGD | [[seminar]](https://github.com/WanomiR/DLS/blob/main/semester-1/seminars/%5Bseminar%5Dlinreg_regularization.ipynb), [[hw]](https://github.com/WanomiR/DLS/blob/main/semester-1/assignments/%5Bhw%5Dlinear_models.ipynb) | *sklearn, scipy* |
+
