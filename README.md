@@ -14,3 +14,8 @@ Here I keep seminar notebooks and assignments on which I worked during the cours
 | Transfer learning: image classification | [[seminar]](https://github.com/WanomiR/DLS/blob/main/semester-1/seminars/%5Bseminar%5Dtransfer_learning_%5Bremastered_2021%5D.ipynb) | [[assignmemt]](https://github.com/WanomiR/DLS/blob/main/semester-1/assignments/%5Bhw%5Dsimpsons_classification.ipynb) | *torch, torchvision, efficientnet_pytorch* |
 | Semantic segmentation | - | [[assignment]](https://github.com/WanomiR/DLS/blob/main/semester-1/assignments/%5Bhw%5Dsemantic_segmentation.ipynb) | *torch, torchvision, skimage* |
 | Autoencoders, Variational Autoencoders | [[seminar]](https://github.com/WanomiR/DLS/blob/main/semester-1/seminars/%5Bseminar%5Dgenerative_models_timeseries.ipynb) [[seminar]](https://github.com/WanomiR/DLS/blob/main/semester-1/seminars/%5Bseminar%5Dvae.ipynb) | TBD | *TBD* |
+
+## Seminar II: Natural Language Processing
+| Topic | Seminar Notebooks | Assignment | Libraires |
+| :--- | --- | --- | --- |
+| Text preprocessing, Word2vec, Embeddings | [[seminar]](https://github.com/WanomiR/DLS/blob/main/semester-2/seminars/%5Bseminar%5Dtext_preprocessing_and_classification.ipynb) | [[assignment]](https://github.com/WanomiR/DLS/blob/main/semester-2/assignments/%5Bhw%5Dsimple_embeddings.ipynb) | *nltk, spacy, sklearn, gensim* |
