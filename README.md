@@ -14,6 +14,7 @@ Here I keep seminar notebooks and assignments on which I worked during the cours
 | Transfer learning: image classification | [[seminar]](https://github.com/WanomiR/DLS/blob/main/semester-1/seminars/%5Bseminar%5Dtransfer_learning_%5Bremastered_2021%5D.ipynb) | [[assignmemt]](https://github.com/WanomiR/DLS/blob/main/semester-1/assignments/%5Bhw%5Dsimpsons_classification.ipynb) | *torch, torchvision, efficientnet_pytorch* |
 | Semantic segmentation | - | [[assignment]](https://github.com/WanomiR/DLS/blob/main/semester-1/assignments/%5Bhw%5Dsemantic_segmentation.ipynb) | *torch, torchvision, skimage* |
 | Autoencoders: Vanilla autoencoder, VAE, CVAE | [[seminar]](https://github.com/WanomiR/DLS/blob/main/semester-1/seminars/%5Bseminar%5Dgenerative_models_timeseries.ipynb) [[seminar]](https://github.com/WanomiR/DLS/blob/main/semester-1/seminars/%5Bseminar%5Dvae.ipynb) | [[assignment]](https://github.com/WanomiR/Deep-Learning-School/blob/main/semester-1/assignments/%5Bhw%5Dautoencoders.ipynb) [[assignment-alt]](https://github.com/WanomiR/Deep-Learning-School/blob/main/semester-1/assignments/%5Bhw%5Dautoencoders-alt-vae.ipynb) | *torch, torchvision, torchsummary, skimage* |
+| Generative Adversarial Networks (GANs) | [[seminar]](https://github.com/WanomiR/Deep-Learning-School/blob/main/semester-1/seminars/%5Bseminar%5Dgan.ipynb) | TBD | *TBD* |
 
 ## Seminar II: Natural Language Processing
 | Topic | Seminar Notebooks | Assignment | Libraires |
