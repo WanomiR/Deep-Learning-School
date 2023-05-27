@@ -20,4 +20,4 @@ Here I keep seminar notebooks and assignments on which I worked during the cours
 | Topic | Seminar Notebooks | Assignment | Libraires |
 | :--- | --- | --- | --- |
 | Text preprocessing, Word2vec, Embeddings | [[seminar]](https://github.com/WanomiR/DLS/blob/main/semester-2/seminars/%5Bseminar%5Dtext_preprocessing_and_classification.ipynb) | [[assignment]](https://github.com/WanomiR/DLS/blob/main/semester-2/assignments/%5Bhw%5Dsimple_embeddings.ipynb) | *nltk, spacy, sklearn, gensim* |
-| TBD | [[seminar]](https://github.com/WanomiR/Deep-Learning-School/blob/main/semester-2/seminars/%5Bseminar%5Dneural_text_classification.ipynb) | TBD | TBD | TBD | 
+| TBD | [[seminar]](https://github.com/WanomiR/Deep-Learning-School/blob/main/semester-2/seminars/%5Bseminar%5Dneural_text_classification.ipynb) [[follow-along]](https://github.com/WanomiR/Deep-Learning-School/blob/main/semester-2/seminars/%5Bfollow-along%5Dneural_text_classification.ipynb)| TBD | TBD | TBD | 
