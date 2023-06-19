@@ -1,6 +1,6 @@
 # Deep Learning School
 
-Here are my seminar notebooks and assignments from the Computer Vision course.
+Here are seminar notebooks and some of the assignments from the Computer Vision course.
 
 ## Computer Vision
 
