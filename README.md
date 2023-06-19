@@ -2,7 +2,7 @@
 
 Here are my seminar notebooks and assignments from the Computer Vision course.
 
-## Semester I: Computer Vision
+## Computer Vision
 
 | Topic | Seminar Notebooks | Assignment | Libraires |
 | :--- | --- | --- | --- |
