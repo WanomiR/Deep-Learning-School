@@ -1,6 +1,6 @@
 # Deep Learning School
 
-Here I keep seminar notebooks and assignments on which I worked during the course.
+Here are my seminar notebooks and assignments from the Computer Vision course.
 
 ## Semester I: Computer Vision
 
