@@ -4,8 +4,8 @@ Here are seminar notebooks and some of the assignments from the Computer Vision 
 
 ## Computer Vision
 
-| Topic | Seminar Notebooks | Assignment | Libraires |
-| :--- | --- | --- | --- |
+| Topic | Seminar Notebooks | Assignments | Libraires |
+| :--- | :--- | :--- | :--- |
 | Linear Regression: Lasso, Ridge, SGD | [[seminar]](https://github.com/WanomiR/Deep-Learning-School/blob/main/Computer%20Vision/seminars/%5Bseminar%5Dlinreg_regularization.ipynb) | [[assignment]](https://github.com/WanomiR/Deep-Learning-School/blob/main/Computer%20Vision/assignments/%5Bhw%5Dlinear_models.ipynb) | *sklearn, scipy* |
 | Model selection, Ensembles, Stacking | [[seminar]](https://github.com/WanomiR/Deep-Learning-School/blob/main/Computer%20Vision/seminars/%5Bseminar%5Dmodel_selection_ensembles.ipynb) | [[assignment]](https://github.com/WanomiR/Deep-Learning-School/blob/main/Computer%20Vision/assignments/%5Bhw%5Dkaggle.ipynb) | *sklearn, catboost, lightgbm, xdgoost, imblearn, iterstat, phik* |
 | PyTorch basics, Creating a PyTorch module | [[seminar]](https://github.com/WanomiR/Deep-Learning-School/blob/main/Computer%20Vision/seminars/%5Bseminar%5Dpytorch_basics.ipynb) [[seminar]](https://github.com/WanomiR/Deep-Learning-School/blob/main/Computer%20Vision/seminars/%5Bseminar%5Dcreating_module.ipynb) | - | *torch, sklearn* |
